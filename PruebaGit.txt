@@ -2,4 +2,8 @@ Hola, esto es una prueba de git
 
 Tengo sueño. Auxilio.
 
+<<<<<<< HEAD
 Se realizo otro cambio, pero esta vez en la master.
+=======
+Se modifico este archivo otra vez.
+>>>>>>> ramaPruebaBacana
