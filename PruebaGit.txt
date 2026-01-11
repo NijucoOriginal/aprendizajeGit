@@ -1,5 +1,9 @@
 Hola, esto es una prueba de git
 
+<<<<<<< HEAD
 Tengo sueño. Auxilio.
 
 Hola, soy Goku.
+=======
+Tengo sueño. Auxilio.
+>>>>>>> NicolasGit
